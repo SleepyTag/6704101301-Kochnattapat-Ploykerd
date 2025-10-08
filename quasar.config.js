@@ -48,7 +48,7 @@ export default defineConfig((/* ctx */) => {
 
       // rebuildCache: true, // rebuilds Vite/linter/etc cache on startup
 
-      publicPath: '/FinalTest/6704101301-Kochnattapat-Ploykerd/',
+      publicPath: '/6704101301-Kochnattapat-Ploykerd/',
       // analyze: true,
       // env: {},
       // rawDefine: {}
